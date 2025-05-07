@@ -1,0 +1,4 @@
+com\example\tris\service\GameService.class
+com\example\tris\TrisApplication.class
+com\example\tris\controller\TrisController.class
+com\example\tris\model\Game.class
